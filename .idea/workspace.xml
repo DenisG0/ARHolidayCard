@@ -1,465 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28365a31-d9c9-4919-be1e-3e35bcbbd0d7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/fbx-model.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/json-model.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/.jshintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/browser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.controls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.controls.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.loaders.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.loaders.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.misc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.misc.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.pathfinding.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.pathfinding.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.primitives.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/aframe-extras.primitives.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/components/grab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/components/grab.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/components/sphere-collider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/dist/components/sphere-collider.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/FBXLoader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/GamepadButton.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/GamepadButtonEvent.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/PLYLoader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/default-hex-grid.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/fetch-script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/hex-grid.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/hex-grid.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/lib/keyboard.polyfill.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/registry.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/checkpoint-controls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/gamepad-controls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/hmd-controls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/keyboard-controls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/mouse-controls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/touch-controls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/controls/universal-controls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/loaders/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/loaders/animation-mixer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/loaders/fbx-model.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/loaders/gltf-model-legacy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/loaders/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/loaders/json-model.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/loaders/object-model.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/loaders/ply-model.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/checkpoint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/cube-env-map.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/grab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/jump-ability.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/kinematic-body.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/mesh-smooth.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/sphere-collider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/misc/toggle-velocity.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/pathfinding/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/pathfinding/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/pathfinding/nav-controller.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/pathfinding/nav-mesh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/pathfinding/system.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/primitives/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/primitives/a-grid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/primitives/a-hexgrid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/primitives/a-ocean.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/primitives/a-tube.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/src/primitives/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/tests/.jshintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/tests/__init.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/tests/controls/keyboard-controls.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/tests/helpers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/tests/karma.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-extras/tests/misc/sphere-collider.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/.jshintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/.npmignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/browser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/dist/aframe-physics-system.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/dist/aframe-physics-system.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/examples/constraints/coneTwist.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/examples/constraints/distance.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/examples/constraints/hinge.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/examples/constraints/lock.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/examples/constraints/pointtopoint.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/examples/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/lib/CANNON-shape2mesh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/components/body/body.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/components/body/dynamic-body.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/components/body/static-body.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/components/constraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/components/math/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/components/math/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/components/math/quaternion.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/components/math/velocity.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/constants.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/src/system/physics.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/tests/.jshintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/tests/__init.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/tests/helpers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/tests/karma.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/tests/math/quaternion.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/tests/math/velocity.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/tests/physics/body.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/aframe-physics-system/tests/physics/system/physics.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/.jshintignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/.jshintrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/Gruntfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/README.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/build/cannon.demo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/build/cannon.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/build/cannon.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/README.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/bodyTypes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/bounce.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/bunny.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/callbacks.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/collisionFilter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/collisions.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/compound.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/constraints.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/container.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/convex.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/events.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/fixedRotation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/friction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/heightfield.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/hinge.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/impulses.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/jenga.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/js/bunny.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/pile.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/ragdoll.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/raycastVehicle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/rigidVehicle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/shapes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/simpleFriction.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/singleBodyOnPlane.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/sleep.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/sph.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/splitSolver.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/spring.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/stacks.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/tear.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/trimesh.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/demos/tween.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/api.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/css/external-small.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/css/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/img/spinner.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/js/api-filter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/js/api-list.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/js/api-search.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/js/apidocs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/js/yui-prettify.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/vendor/prettify/CHANGES.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/vendor/prettify/COPYING" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/vendor/prettify/README.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/vendor/prettify/prettify-min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/assets/vendor/prettify/prettify-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/AABB.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/ArrayCollisionMatrix.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Body.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Box.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Broadphase.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/ConeEquation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/ConeTwistConstraint.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Constraint.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/ContactEquation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/ContactMaterial.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/ConvexPolyhedron.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Cylinder.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Demo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/DistanceConstraint.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Equation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/EventTarget.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/FrictionEquation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/GSSolver.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/GridBroadphase.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Heightfield.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/HingeConstraint.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/JacobianElement.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/LockConstraint.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Mat3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Material.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/NaiveBroadphase.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Narrowphase.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/ObjectCollisionMatrix.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Octree.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/OctreeNode.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Particle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Plane.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/PointToPointConstraint.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Pool.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Quaternion.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Ray.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/RaycastResult.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/RaycastVehicle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/RigidVehicle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/RotationalEquation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/RotationalMotorEquation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/SAPBroadphase.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/SPHSystem.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Shape.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Solver.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Sphere.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/SplitSolver.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Spring.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Transform.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Trimesh.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/TupleDictionary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Vec3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/Vec3Pool.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/WheelInfo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/World.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/classes/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/data.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_AABB.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_ArrayCollisionMatrix.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_Broadphase.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_GridBroadphase.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_NaiveBroadphase.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_ObjectCollisionMatrix.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_Ray.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_RaycastResult.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_collision_SAPBroadphase.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_constraints_ConeTwistConstraint.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_constraints_Constraint.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_constraints_DistanceConstraint.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_constraints_HingeConstraint.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_constraints_LockConstraint.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_constraints_PointToPointConstraint.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_demo_Demo.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_equations_ConeEquation.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_equations_ContactEquation.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_equations_Equation.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_equations_FrictionEquation.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_equations_RotationalEquation.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_equations_RotationalMotorEquation.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_material_ContactMaterial.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_material_Material.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_math_JacobianElement.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_math_Mat3.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_math_Quaternion.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_math_Transform.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_math_Vec3.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_objects_Body.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_objects_RaycastVehicle.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_objects_RigidVehicle.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_objects_SPHSystem.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_objects_Spring.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_objects_WheelInfo.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_Box.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_ConvexPolyhedron.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_Cylinder.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_Heightfield.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_Particle.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_Plane.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_Shape.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_Sphere.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_shapes_Trimesh.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_solver_GSSolver.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_solver_Solver.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_solver_SplitSolver.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_utils_EventTarget.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_utils_Octree.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_utils_Pool.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_utils_TupleDictionary.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_utils_Utils.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_utils_Vec3Pool.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_world_Narrowphase.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/files/src_world_World.js.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/docs/modules/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/README.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/canvas_interpolation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/js/PointerLockControls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/js/VoxelLandscape.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/scenejs.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/sunflower.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/threejs.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/threejs_cloth.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/threejs_fps.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/threejs_mousepick.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/threejs_voxel_fps.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/examples/worker.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/bounce.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/boxes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/bunny.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/callbacks.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/collisionFilter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/collisions.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/compound.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/constraints.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/container.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/container2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/convexhull.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/events.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/fixedRotation.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/fps.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/friction.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/heightfield.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/hinge.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/impulses.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/motionstates.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/pile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/raycastVehicle.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/rigidVehicle.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/shapes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/single.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/sleep.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/sph.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/splitSolver.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/spring.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/stack.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/threejs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/threejs_cloth.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/threejs_mousepick.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/threejs_voxel_fps.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/images/worker.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/libs/ConvexGeometry.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/libs/Detector.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/libs/Stats.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/libs/Three.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/libs/TrackballControls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/libs/dat.gui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/libs/scenejs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/libs/smoothie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/Cannon.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/AABB.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/ArrayCollisionMatrix.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/Broadphase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/GridBroadphase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/NaiveBroadphase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/ObjectCollisionMatrix.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/OverlapKeeper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/Ray.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/RaycastResult.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/collision/SAPBroadphase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/constraints/ConeTwistConstraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/constraints/Constraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/constraints/DistanceConstraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/constraints/HingeConstraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/constraints/LockConstraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/constraints/PointToPointConstraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/demo/Demo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/equations/ConeEquation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/equations/ContactEquation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/equations/Equation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/equations/FrictionEquation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/equations/RotationalEquation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/equations/RotationalMotorEquation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/material/ContactMaterial.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/material/Material.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/math/JacobianElement.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/math/Mat3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/math/Quaternion.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/math/Transform.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/math/Vec3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/objects/Body.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/objects/RaycastVehicle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/objects/RigidVehicle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/objects/SPHSystem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/objects/Spring.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/objects/WheelInfo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/Box.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/ConvexPolyhedron.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/Cylinder.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/Heightfield.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/Particle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/Plane.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/Shape.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/Sphere.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/shapes/Trimesh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/solver/GSSolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/solver/Solver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/solver/SplitSolver.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/utils/EventTarget.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/utils/Octree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/utils/Pool.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/utils/TupleDictionary.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/utils/Utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/utils/Vec3Pool.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/world/Narrowphase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/src/world/World.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/AABB.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Body.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Box.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Constraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/ContactEquation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/ConvexPolyhedron.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Heightfield.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/HingeConstraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/LockConstraint.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Mat3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Narrowphase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Octree.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/OverlapKeeper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Quaternion.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Ray.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/RaycastVehicle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Sphere.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Trimesh.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/TupleDictionary.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/Vec3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/test/World.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/tools/threejs/CannonDebugRenderer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/tools/threejs/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/tools/threejs/before-after.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/tools/threejs/example.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/util/cannon.serialize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/cannon/yuidoc.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/browser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/OrbitControls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/demo.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/meshes/convert_obj_three.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/meshes/level.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/meshes/level.mtl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/meshes/level.nav.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/meshes/level.nav.mtl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/meshes/level.obj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/demo/meshes/navmesh.obj" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/nodedemo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/src/AStar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/src/BinaryHeap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/src/Channel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-pathfinding/src/utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-to-cannon/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-to-cannon/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-to-cannon/lib/THREE.quickhull.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/three-to-cannon/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/planet.json" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-    </list>
+    <list default="true" id="28365a31-d9c9-4919-be1e-3e35bcbbd0d7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -484,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="412">
               <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#!!top" expanded="true" />
@@ -536,6 +78,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -604,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513434988549</updated>
       <workItem from="1513434989717" duration="1405000" />
-      <workItem from="1513533227222" duration="3697000" />
+      <workItem from="1513533227222" duration="4279000" />
     </task>
     <task id="LOCAL-00001" summary="Ar.js Intial Commit">
       <created>1513435212441</created>
@@ -617,11 +160,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5102000" />
+    <option name="totallyTimeSpent" value="5684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19063005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -632,7 +174,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -725,7 +267,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="412">
           <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#body#0;n#!!top" expanded="true" />
